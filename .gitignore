@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Do not track my db configuration
+model/db.js 
